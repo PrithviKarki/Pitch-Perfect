@@ -1,0 +1,33 @@
+/* IntroPage.css */
+
+.intro-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .intro-title {
+    font-size: 4.5em;
+    margin-bottom: 10px;
+  }
+  
+  .intro-button {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  
+  .intro-image {
+    width: 400px;
+    height: 400px;
+    cursor: pointer;
+  }
+  
+  .intro-instructions {
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+  
